@@ -1,1 +1,1 @@
-# MIMIC_LOS_pred
+# Length of Stay in ICU prediction using MIMIC-IV data
